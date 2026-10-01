@@ -2,7 +2,7 @@ Psychoinformatics of Mindprints
 
 A Deterministic Framework for Unique Character Architecture
 
-Draft manuscript · [Author name] · October 2026
+Draft manuscript · MD RAIHAN SARDER· October 2026
 
 
 
